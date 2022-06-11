@@ -1,0 +1,8 @@
+C:\curso\seletorDePessoas\seletorDePessoas\bin\Debug\seletorDePessoas.exe.config
+C:\curso\seletorDePessoas\seletorDePessoas\bin\Debug\seletorDePessoas.exe
+C:\curso\seletorDePessoas\seletorDePessoas\bin\Debug\seletorDePessoas.pdb
+C:\curso\seletorDePessoas\seletorDePessoas\obj\Debug\seletorDePessoas.csproj.AssemblyReference.cache
+C:\curso\seletorDePessoas\seletorDePessoas\obj\Debug\seletorDePessoas.csproj.SuggestedBindingRedirects.cache
+C:\curso\seletorDePessoas\seletorDePessoas\obj\Debug\seletorDePessoas.csproj.CoreCompileInputs.cache
+C:\curso\seletorDePessoas\seletorDePessoas\obj\Debug\seletorDePessoas.exe
+C:\curso\seletorDePessoas\seletorDePessoas\obj\Debug\seletorDePessoas.pdb
